@@ -1,0 +1,13 @@
+Target dependency graph (8 targets)
+Target 'CodeChallengeUITests' in project 'CodeChallenge' (no dependencies)
+Target 'CodeChallengeUITests' in project 'CodeChallenge'
+➜ Explicit dependency on target 'CodeChallenge' in project 'CodeChallenge'
+Target 'CodeChallengeUITests' in project 'CodeChallenge'
+➜ Explicit dependency on target 'CodeChallenge' in project 'CodeChallenge'
+Target 'CodeChallengeTests' in project 'CodeChallenge' (no dependencies)
+Target 'CodeChallengeTests' in project 'CodeChallenge'
+➜ Explicit dependency on target 'CodeChallenge' in project 'CodeChallenge'
+Target 'CodeChallengeTests' in project 'CodeChallenge'
+➜ Explicit dependency on target 'CodeChallenge' in project 'CodeChallenge'
+Target 'CodeChallenge' in project 'CodeChallenge' (no dependencies)
+Target 'CodeChallenge' in project 'CodeChallenge' (no dependencies)

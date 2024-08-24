@@ -1,0 +1,108 @@
+{
+  "" : {
+    "diagnostics" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Build/Intermediates.noindex/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/CodeChallenge-master.dia",
+    "emit-module-dependencies" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Build/Intermediates.noindex/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/CodeChallenge-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Build/Intermediates.noindex/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/CodeChallenge-master-emit-module.dia",
+    "swift-dependencies" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Build/Intermediates.noindex/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/CodeChallenge-master.swiftdeps"
+  },
+  "/Users/youngjoonkim/Desktop/CodeChallenge/CodeChallenge/CCConstants.swift" : {
+    "const-values" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Build/Intermediates.noindex/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/CCConstants.swiftconstvalues",
+    "dependencies" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Build/Intermediates.noindex/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/CCConstants.d",
+    "diagnostics" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Build/Intermediates.noindex/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/CCConstants.dia",
+    "index-unit-output-path" : "/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/CCConstants.o",
+    "llvm-bc" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Build/Intermediates.noindex/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/CCConstants.bc",
+    "object" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Build/Intermediates.noindex/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/CCConstants.o",
+    "swift-dependencies" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Build/Intermediates.noindex/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/CCConstants.swiftdeps",
+    "swiftmodule" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Build/Intermediates.noindex/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/CCConstants~partial.swiftmodule"
+  },
+  "/Users/youngjoonkim/Desktop/CodeChallenge/CodeChallenge/CCDataModels/CCFlickr.swift" : {
+    "const-values" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Build/Intermediates.noindex/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/CCFlickr.swiftconstvalues",
+    "dependencies" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Build/Intermediates.noindex/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/CCFlickr.d",
+    "diagnostics" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Build/Intermediates.noindex/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/CCFlickr.dia",
+    "index-unit-output-path" : "/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/CCFlickr.o",
+    "llvm-bc" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Build/Intermediates.noindex/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/CCFlickr.bc",
+    "object" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Build/Intermediates.noindex/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/CCFlickr.o",
+    "swift-dependencies" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Build/Intermediates.noindex/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/CCFlickr.swiftdeps",
+    "swiftmodule" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Build/Intermediates.noindex/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/CCFlickr~partial.swiftmodule"
+  },
+  "/Users/youngjoonkim/Desktop/CodeChallenge/CodeChallenge/CCHTTPClient/CCHTTPClient.swift" : {
+    "const-values" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Build/Intermediates.noindex/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/CCHTTPClient.swiftconstvalues",
+    "dependencies" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Build/Intermediates.noindex/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/CCHTTPClient.d",
+    "diagnostics" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Build/Intermediates.noindex/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/CCHTTPClient.dia",
+    "index-unit-output-path" : "/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/CCHTTPClient.o",
+    "llvm-bc" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Build/Intermediates.noindex/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/CCHTTPClient.bc",
+    "object" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Build/Intermediates.noindex/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/CCHTTPClient.o",
+    "swift-dependencies" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Build/Intermediates.noindex/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/CCHTTPClient.swiftdeps",
+    "swiftmodule" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Build/Intermediates.noindex/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/CCHTTPClient~partial.swiftmodule"
+  },
+  "/Users/youngjoonkim/Desktop/CodeChallenge/CodeChallenge/CCIntent/Intent.swift" : {
+    "const-values" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Build/Intermediates.noindex/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/Intent.swiftconstvalues",
+    "dependencies" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Build/Intermediates.noindex/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/Intent.d",
+    "diagnostics" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Build/Intermediates.noindex/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/Intent.dia",
+    "index-unit-output-path" : "/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/Intent.o",
+    "llvm-bc" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Build/Intermediates.noindex/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/Intent.bc",
+    "object" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Build/Intermediates.noindex/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/Intent.o",
+    "swift-dependencies" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Build/Intermediates.noindex/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/Intent.swiftdeps",
+    "swiftmodule" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Build/Intermediates.noindex/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/Intent~partial.swiftmodule"
+  },
+  "/Users/youngjoonkim/Desktop/CodeChallenge/CodeChallenge/CCViewModels/Model.swift" : {
+    "const-values" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Build/Intermediates.noindex/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/Model.swiftconstvalues",
+    "dependencies" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Build/Intermediates.noindex/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/Model.d",
+    "diagnostics" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Build/Intermediates.noindex/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/Model.dia",
+    "index-unit-output-path" : "/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/Model.o",
+    "llvm-bc" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Build/Intermediates.noindex/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/Model.bc",
+    "object" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Build/Intermediates.noindex/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/Model.o",
+    "swift-dependencies" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Build/Intermediates.noindex/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/Model.swiftdeps",
+    "swiftmodule" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Build/Intermediates.noindex/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/Model~partial.swiftmodule"
+  },
+  "/Users/youngjoonkim/Desktop/CodeChallenge/CodeChallenge/CCViews/CodeChallengeApp.swift" : {
+    "const-values" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Build/Intermediates.noindex/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/CodeChallengeApp.swiftconstvalues",
+    "dependencies" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Build/Intermediates.noindex/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/CodeChallengeApp.d",
+    "diagnostics" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Build/Intermediates.noindex/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/CodeChallengeApp.dia",
+    "index-unit-output-path" : "/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/CodeChallengeApp.o",
+    "llvm-bc" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Build/Intermediates.noindex/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/CodeChallengeApp.bc",
+    "object" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Build/Intermediates.noindex/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/CodeChallengeApp.o",
+    "swift-dependencies" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Build/Intermediates.noindex/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/CodeChallengeApp.swiftdeps",
+    "swiftmodule" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Build/Intermediates.noindex/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/CodeChallengeApp~partial.swiftmodule"
+  },
+  "/Users/youngjoonkim/Desktop/CodeChallenge/CodeChallenge/CCViews/FullImageView.swift" : {
+    "const-values" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Build/Intermediates.noindex/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/FullImageView.swiftconstvalues",
+    "dependencies" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Build/Intermediates.noindex/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/FullImageView.d",
+    "diagnostics" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Build/Intermediates.noindex/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/FullImageView.dia",
+    "index-unit-output-path" : "/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/FullImageView.o",
+    "llvm-bc" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Build/Intermediates.noindex/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/FullImageView.bc",
+    "object" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Build/Intermediates.noindex/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/FullImageView.o",
+    "swift-dependencies" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Build/Intermediates.noindex/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/FullImageView.swiftdeps",
+    "swiftmodule" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Build/Intermediates.noindex/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/FullImageView~partial.swiftmodule"
+  },
+  "/Users/youngjoonkim/Desktop/CodeChallenge/CodeChallenge/CCViews/ImageView.swift" : {
+    "const-values" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Build/Intermediates.noindex/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/ImageView.swiftconstvalues",
+    "dependencies" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Build/Intermediates.noindex/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/ImageView.d",
+    "diagnostics" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Build/Intermediates.noindex/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/ImageView.dia",
+    "index-unit-output-path" : "/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/ImageView.o",
+    "llvm-bc" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Build/Intermediates.noindex/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/ImageView.bc",
+    "object" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Build/Intermediates.noindex/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/ImageView.o",
+    "swift-dependencies" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Build/Intermediates.noindex/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/ImageView.swiftdeps",
+    "swiftmodule" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Build/Intermediates.noindex/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/ImageView~partial.swiftmodule"
+  },
+  "/Users/youngjoonkim/Desktop/CodeChallenge/CodeChallenge/Utility.swift" : {
+    "const-values" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Build/Intermediates.noindex/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/Utility.swiftconstvalues",
+    "dependencies" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Build/Intermediates.noindex/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/Utility.d",
+    "diagnostics" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Build/Intermediates.noindex/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/Utility.dia",
+    "index-unit-output-path" : "/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/Utility.o",
+    "llvm-bc" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Build/Intermediates.noindex/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/Utility.bc",
+    "object" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Build/Intermediates.noindex/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/Utility.o",
+    "swift-dependencies" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Build/Intermediates.noindex/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/Utility.swiftdeps",
+    "swiftmodule" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Build/Intermediates.noindex/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/Utility~partial.swiftmodule"
+  },
+  "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Build/Intermediates.noindex/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Build/Intermediates.noindex/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Build/Intermediates.noindex/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Build/Intermediates.noindex/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Build/Intermediates.noindex/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Build/Intermediates.noindex/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Build/Intermediates.noindex/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Build/Intermediates.noindex/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}

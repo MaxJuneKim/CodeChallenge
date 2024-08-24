@@ -1,0 +1,12 @@
+{
+  "" : {
+    "dependencies" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Index.noindex/Build/Intermediates.noindex/CodeChallenge.build/Debug-iphoneos/CodeChallengeTests.build/Objects-normal/arm64/CodeChallengeTests-master.d",
+    "diagnostics" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Index.noindex/Build/Intermediates.noindex/CodeChallenge.build/Debug-iphoneos/CodeChallengeTests.build/Objects-normal/arm64/CodeChallengeTests-master.dia",
+    "emit-module-dependencies" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Index.noindex/Build/Intermediates.noindex/CodeChallenge.build/Debug-iphoneos/CodeChallengeTests.build/Objects-normal/arm64/CodeChallengeTests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Index.noindex/Build/Intermediates.noindex/CodeChallenge.build/Debug-iphoneos/CodeChallengeTests.build/Objects-normal/arm64/CodeChallengeTests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Index.noindex/Build/Intermediates.noindex/CodeChallenge.build/Debug-iphoneos/CodeChallengeTests.build/Objects-normal/arm64/CodeChallengeTests-master.swiftdeps"
+  },
+  "/Users/youngjoonkim/Desktop/CodeChallenge/CodeChallengeTests/CodeChallengeTests.swift" : {
+
+  }
+}

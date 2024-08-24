@@ -1,0 +1,66 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "65c48c692ca004bc7525004f60e0c3ee6080d4f9ac47a9853ca976cdfa08f978"
+    },
+    {
+      "guid" : "65c48c692ca004bc7525004f60e0c3eeb29c265a5d5c110ce6f2cb96d0bbfc42"
+    },
+    {
+      "guid" : "65c48c692ca004bc7525004f60e0c3ee23f65bc1ea527a29057ea74ccabe2dbf"
+    }
+  ],
+  "containerPath" : "/Users/youngjoonkim/Desktop/CodeChallenge/CodeChallenge.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator17.4",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Index.noindex/PrecompiledHeaders",
+      "indexRegularBuildIntermediatesPath" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Build/Intermediates.noindex",
+      "indexRegularBuildProductsPath" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Build/Products",
+      "pchPath" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

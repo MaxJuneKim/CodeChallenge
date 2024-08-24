@@ -1,0 +1,15 @@
+{
+  "" : {
+    "dependencies" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Index.noindex/Build/Intermediates.noindex/CodeChallenge.build/Debug-maccatalyst/CodeChallengeUITests.build/Objects-normal/arm64/CodeChallengeUITests-master.d",
+    "diagnostics" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Index.noindex/Build/Intermediates.noindex/CodeChallenge.build/Debug-maccatalyst/CodeChallengeUITests.build/Objects-normal/arm64/CodeChallengeUITests-master.dia",
+    "emit-module-dependencies" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Index.noindex/Build/Intermediates.noindex/CodeChallenge.build/Debug-maccatalyst/CodeChallengeUITests.build/Objects-normal/arm64/CodeChallengeUITests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Index.noindex/Build/Intermediates.noindex/CodeChallenge.build/Debug-maccatalyst/CodeChallengeUITests.build/Objects-normal/arm64/CodeChallengeUITests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Index.noindex/Build/Intermediates.noindex/CodeChallenge.build/Debug-maccatalyst/CodeChallengeUITests.build/Objects-normal/arm64/CodeChallengeUITests-master.swiftdeps"
+  },
+  "/Users/youngjoonkim/Desktop/CodeChallenge/CodeChallengeUITests/CodeChallengeUITests.swift" : {
+
+  },
+  "/Users/youngjoonkim/Desktop/CodeChallenge/CodeChallengeUITests/CodeChallengeUITestsLaunchTests.swift" : {
+
+  }
+}

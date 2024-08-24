@@ -8,12 +8,20 @@
 
 /* Begin PBXBuildFile section */
 		E4747C2B2C7A6EE100F97BCE /* CodeChallengeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4747C2A2C7A6EE100F97BCE /* CodeChallengeApp.swift */; };
-		E4747C2D2C7A6EE100F97BCE /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4747C2C2C7A6EE100F97BCE /* ContentView.swift */; };
 		E4747C2F2C7A6EE200F97BCE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E4747C2E2C7A6EE200F97BCE /* Assets.xcassets */; };
 		E4747C322C7A6EE200F97BCE /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E4747C312C7A6EE200F97BCE /* Preview Assets.xcassets */; };
 		E4747C3C2C7A6EE200F97BCE /* CodeChallengeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4747C3B2C7A6EE200F97BCE /* CodeChallengeTests.swift */; };
 		E4747C462C7A6EE200F97BCE /* CodeChallengeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4747C452C7A6EE200F97BCE /* CodeChallengeUITests.swift */; };
 		E4747C482C7A6EE200F97BCE /* CodeChallengeUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4747C472C7A6EE200F97BCE /* CodeChallengeUITestsLaunchTests.swift */; };
+		E4747C552C7A6EFB00F97BCE /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = E4747C542C7A6EFB00F97BCE /* README.md */; };
+		E4747C582C7A6F1800F97BCE /* Utility.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4747C562C7A6F1800F97BCE /* Utility.swift */; };
+		E4747C592C7A6F1800F97BCE /* CCConstants.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4747C572C7A6F1800F97BCE /* CCConstants.swift */; };
+		E4747C6B2C7A6F3000F97BCE /* FullImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4747C5B2C7A6F2E00F97BCE /* FullImageView.swift */; };
+		E4747C6C2C7A6F3000F97BCE /* ImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4747C5C2C7A6F2E00F97BCE /* ImageView.swift */; };
+		E4747C6D2C7A6F3000F97BCE /* Intent.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4747C5E2C7A6F2E00F97BCE /* Intent.swift */; };
+		E4747C6F2C7A6F3000F97BCE /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4747C612C7A6F2F00F97BCE /* Model.swift */; };
+		E4747C702C7A6F3000F97BCE /* CCHTTPClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4747C632C7A6F2F00F97BCE /* CCHTTPClient.swift */; };
+		E4747C742C7A6F3000F97BCE /* CCFlickr.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4747C682C7A6F3000F97BCE /* CCFlickr.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,7 +44,6 @@
 /* Begin PBXFileReference section */
 		E4747C272C7A6EE100F97BCE /* CodeChallenge.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CodeChallenge.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E4747C2A2C7A6EE100F97BCE /* CodeChallengeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodeChallengeApp.swift; sourceTree = "<group>"; };
-		E4747C2C2C7A6EE100F97BCE /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		E4747C2E2C7A6EE200F97BCE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E4747C312C7A6EE200F97BCE /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		E4747C372C7A6EE200F97BCE /* CodeChallengeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CodeChallengeTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -44,6 +51,15 @@
 		E4747C412C7A6EE200F97BCE /* CodeChallengeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CodeChallengeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E4747C452C7A6EE200F97BCE /* CodeChallengeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodeChallengeUITests.swift; sourceTree = "<group>"; };
 		E4747C472C7A6EE200F97BCE /* CodeChallengeUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodeChallengeUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		E4747C542C7A6EFB00F97BCE /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		E4747C562C7A6F1800F97BCE /* Utility.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Utility.swift; sourceTree = "<group>"; };
+		E4747C572C7A6F1800F97BCE /* CCConstants.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CCConstants.swift; sourceTree = "<group>"; };
+		E4747C5B2C7A6F2E00F97BCE /* FullImageView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FullImageView.swift; sourceTree = "<group>"; };
+		E4747C5C2C7A6F2E00F97BCE /* ImageView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ImageView.swift; sourceTree = "<group>"; };
+		E4747C5E2C7A6F2E00F97BCE /* Intent.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Intent.swift; sourceTree = "<group>"; };
+		E4747C612C7A6F2F00F97BCE /* Model.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
+		E4747C632C7A6F2F00F97BCE /* CCHTTPClient.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CCHTTPClient.swift; sourceTree = "<group>"; };
+		E4747C682C7A6F3000F97BCE /* CCFlickr.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CCFlickr.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,9 +110,15 @@
 		E4747C292C7A6EE100F97BCE /* CodeChallenge */ = {
 			isa = PBXGroup;
 			children = (
-				E4747C2A2C7A6EE100F97BCE /* CodeChallengeApp.swift */,
-				E4747C2C2C7A6EE100F97BCE /* ContentView.swift */,
+				E4747C542C7A6EFB00F97BCE /* README.md */,
+				E4747C692C7A6F3000F97BCE /* CCDataModels */,
+				E4747C642C7A6F2F00F97BCE /* CCHTTPClient */,
+				E4747C5F2C7A6F2E00F97BCE /* CCIntent */,
+				E4747C622C7A6F2F00F97BCE /* CCViewModels */,
+				E4747C5D2C7A6F2E00F97BCE /* CCViews */,
 				E4747C2E2C7A6EE200F97BCE /* Assets.xcassets */,
+				E4747C572C7A6F1800F97BCE /* CCConstants.swift */,
+				E4747C562C7A6F1800F97BCE /* Utility.swift */,
 				E4747C302C7A6EE200F97BCE /* Preview Content */,
 			);
 			path = CodeChallenge;
@@ -125,6 +147,48 @@
 				E4747C472C7A6EE200F97BCE /* CodeChallengeUITestsLaunchTests.swift */,
 			);
 			path = CodeChallengeUITests;
+			sourceTree = "<group>";
+		};
+		E4747C5D2C7A6F2E00F97BCE /* CCViews */ = {
+			isa = PBXGroup;
+			children = (
+				E4747C5B2C7A6F2E00F97BCE /* FullImageView.swift */,
+				E4747C2A2C7A6EE100F97BCE /* CodeChallengeApp.swift */,
+				E4747C5C2C7A6F2E00F97BCE /* ImageView.swift */,
+			);
+			path = CCViews;
+			sourceTree = "<group>";
+		};
+		E4747C5F2C7A6F2E00F97BCE /* CCIntent */ = {
+			isa = PBXGroup;
+			children = (
+				E4747C5E2C7A6F2E00F97BCE /* Intent.swift */,
+			);
+			path = CCIntent;
+			sourceTree = "<group>";
+		};
+		E4747C622C7A6F2F00F97BCE /* CCViewModels */ = {
+			isa = PBXGroup;
+			children = (
+				E4747C612C7A6F2F00F97BCE /* Model.swift */,
+			);
+			path = CCViewModels;
+			sourceTree = "<group>";
+		};
+		E4747C642C7A6F2F00F97BCE /* CCHTTPClient */ = {
+			isa = PBXGroup;
+			children = (
+				E4747C632C7A6F2F00F97BCE /* CCHTTPClient.swift */,
+			);
+			path = CCHTTPClient;
+			sourceTree = "<group>";
+		};
+		E4747C692C7A6F3000F97BCE /* CCDataModels */ = {
+			isa = PBXGroup;
+			children = (
+				E4747C682C7A6F3000F97BCE /* CCFlickr.swift */,
+			);
+			path = CCDataModels;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -231,6 +295,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E4747C552C7A6EFB00F97BCE /* README.md in Resources */,
 				E4747C322C7A6EE200F97BCE /* Preview Assets.xcassets in Resources */,
 				E4747C2F2C7A6EE200F97BCE /* Assets.xcassets in Resources */,
 			);
@@ -257,8 +322,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E4747C2D2C7A6EE100F97BCE /* ContentView.swift in Sources */,
+				E4747C6F2C7A6F3000F97BCE /* Model.swift in Sources */,
+				E4747C6C2C7A6F3000F97BCE /* ImageView.swift in Sources */,
+				E4747C742C7A6F3000F97BCE /* CCFlickr.swift in Sources */,
+				E4747C702C7A6F3000F97BCE /* CCHTTPClient.swift in Sources */,
 				E4747C2B2C7A6EE100F97BCE /* CodeChallengeApp.swift in Sources */,
+				E4747C6D2C7A6F3000F97BCE /* Intent.swift in Sources */,
+				E4747C582C7A6F1800F97BCE /* Utility.swift in Sources */,
+				E4747C6B2C7A6F3000F97BCE /* FullImageView.swift in Sources */,
+				E4747C592C7A6F1800F97BCE /* CCConstants.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -429,6 +501,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -457,6 +530,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",

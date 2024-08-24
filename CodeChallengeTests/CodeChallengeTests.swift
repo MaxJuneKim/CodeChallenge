@@ -32,5 +32,20 @@ final class CodeChallengeTests: XCTestCase {
             // Put the code you want to measure the time of here.
         }
     }
+    
+    func testRequestAndDecode() throws {
+        Task.init {
+            XCTAssert(URL(string: api + "Animal") != nil)
+            XCTAssertNoThrow(URLRequest(url: URL(string: api + "Animal")!))
+            let request = URLRequest(url: URL(string: api + "Animal")!)
+            let result:Result<Flickr, Error> = await HTTPClient.shared.requestAndDecode(request: request)
+            XCTAssertNoThrow(try result.get())
 
+            XCTAssert((try? result.get())?.description != nil)
+            XCTAssert((try? result.get())?.title != nil)
+            XCTAssert((try? result.get())?.modified != nil)
+            XCTAssert((try? result.get())?.items != nil)
+            XCTAssert((try? result.get())?.modified != nil)
+        }
+    }
 }

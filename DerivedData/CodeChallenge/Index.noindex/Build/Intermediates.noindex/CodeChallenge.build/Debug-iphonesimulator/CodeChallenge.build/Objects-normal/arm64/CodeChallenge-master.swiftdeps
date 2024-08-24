@@ -1,0 +1,16 @@
+version: "Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)"
+options: "df3cbe24513e61b3ec9536cf3f9421de66749c4bad14b4d9944a88c49251fd56"
+build_start_time: [1724528762, 835703000]
+build_end_time: [1724528763, 315196000]
+inputs:
+  "/Users/youngjoonkim/Desktop/CodeChallenge/CodeChallenge/CCConstants.swift": [1724521495, 519692225]
+  "/Users/youngjoonkim/Desktop/CodeChallenge/CodeChallenge/CCDataModels/CCFlickr.swift": [1724524030, 366737638]
+  "/Users/youngjoonkim/Desktop/CodeChallenge/CodeChallenge/CCHTTPClient/CCHTTPClient.swift": [1724524030, 355560335]
+  "/Users/youngjoonkim/Desktop/CodeChallenge/CodeChallenge/CCIntent/Intent.swift": [1724526832, 494200024]
+  "/Users/youngjoonkim/Desktop/CodeChallenge/CodeChallenge/CCViewModels/Model.swift": [1724524030, 311626039]
+  "/Users/youngjoonkim/Desktop/CodeChallenge/CodeChallenge/CCViews/CodeChallengeApp.swift": [1724528634, 651254408]
+  "/Users/youngjoonkim/Desktop/CodeChallenge/CodeChallenge/CCViews/FullImageView.swift": [1724526175, 304969805]
+  "/Users/youngjoonkim/Desktop/CodeChallenge/CodeChallenge/CCViews/ImageView.swift": [1724525489, 775426331]
+  "/Users/youngjoonkim/Desktop/CodeChallenge/CodeChallenge/Utility.swift": [1724522516, 632479768]
+  ? "/Users/youngjoonkim/Desktop/CodeChallenge/DerivedData/CodeChallenge/Index.noindex/Build/Intermediates.noindex/CodeChallenge.build/Debug-iphonesimulator/CodeChallenge.build/DerivedSources/GeneratedAssetSymbols.swift"
+  : [1724528520, 671110821]
